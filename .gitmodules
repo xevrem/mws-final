@@ -1,0 +1,6 @@
+[submodule "mws-restaurant-stage-1"]
+	path = mws-restaurant-stage-1
+	url = https://github.com/xevrem/mws-restaurant-stage-1.git
+[submodule "mws-restaurant-stage-3"]
+	path = mws-restaurant-stage-3
+	url = https://github.com/xevrem/mws-restaurant-stage-3.git
