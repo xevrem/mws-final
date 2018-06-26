@@ -1,0 +1,15 @@
+--mark a restaurant as favorite
+----needs to be visibly obvious
+----responsive for desktop, mobile, etc.
+--retrieve reviews for restaurant via API
+--add alternate text for restaurant images in server db
+--add reviews for a restaurant
+----form for reviews
+------responsive for desktop, mobile, etc.
+------Accessibility & ARIA attributes
+----add reviews while offline
+----reviews are sent to server when connectivity is re-established
+--lighthouse targets
+----Progressive Web App: >90
+----Performance: >90
+----Accessibility: >90
